@@ -1,4 +1,0 @@
-- name: executando role que instala apache
-  hosts: all
-  roles:
-   - web

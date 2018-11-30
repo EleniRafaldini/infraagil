@@ -1,7 +1,0 @@
-
-- name: instalando servidor apache
-  package:
-    name: {{ Apache }}
-    state: present
-
-
